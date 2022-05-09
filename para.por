@@ -1,6 +1,6 @@
 programa
 {
-	//PARA
+	//PARA
 	funcao inicio()
 	{
 		inteiro num, mult, cont
@@ -14,7 +14,7 @@ programa
 			mult = mult * num
 		}
 			
-		escreva("A muliplicação dos números digitados é ", mult)
+		escreva("A muliplicação dos números digitados é ", mult, "\n")
 		
 	}
 }
@@ -23,7 +23,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 267; 
+ * @POSICAO-CURSOR = 0; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

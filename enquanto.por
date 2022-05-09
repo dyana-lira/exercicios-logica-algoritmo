@@ -1,13 +1,13 @@
 programa
-{    
-	//Enquanto
+{    
+	//Enquanto
 	funcao inicio()
 	{
 		inteiro numero, cont, multi
 		cont = 1
 		multi = 1
 		
-		enquanto (cont <= 4) {
+		enquanto (cont <= 10) {
 			
 			escreva("Digite um número: ")
 			leia(numero)
@@ -16,7 +16,7 @@ programa
 			cont = cont + 1
 		}
 		
-		escreva("A muliplicação dos números digitados é ", multi)
+		escreva("A multiplicação dos números digitados é ", multi, "\n")		
 		
 	}
 }
@@ -25,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 268; 
+ * @POSICAO-CURSOR = 102; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
